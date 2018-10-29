@@ -5,7 +5,7 @@
 
 网上介绍的是关于ssh使用公钥匹配登录，而这里使用的是通过安装软件包expect来实现的。
 
-$ sudo apt-get install 
+$ sudo apt-get install expect
 
 ```
 #!/usr/bin/expect
